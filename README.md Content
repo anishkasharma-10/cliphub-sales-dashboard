@@ -63,6 +63,16 @@ The dataset contains the following fields:
 * dashboard-screenshot.png
 * README.md
 
+### SQL Concepts Used
+- SELECT
+- GROUP BY
+- SUM()
+- AVG()
+- COUNT()
+- ORDER BY
+- LIMIT
+- Aggregate Functions
+
 ## Author
 Anishka Sharma
 B.Tech Computer Science Engineering (2027)
