@@ -1,0 +1,72 @@
+# ClipHub Sales Dashboard
+
+## Project Overview
+The ClipHub Sales Dashboard is a Power BI project developed to analyze and visualize sales performance data for a fictional retail company, ClipHub. The dashboard provides insights into revenue, orders, product performance, category-wise sales, and city-wise revenue distribution, enabling data-driven business decisions.
+
+## Objectives
+* Analyze sales performance across different product categories.
+* Identify top-performing products and cities.
+* Monitor key business metrics through KPI cards.
+* Extract business insights using SQL queries.
+* Create an interactive and user-friendly Power BI dashboard.
+
+## Tools & Technologies
+* Power BI
+* SQL
+* Microsoft Excel
+
+## Dashboard Features
+* Total Revenue Analysis
+* Total Orders Tracking
+* Average Order Value (AOV)
+* Category-wise Revenue Breakdown
+* Top Revenue Generating Products
+* Top Performing Cities Analysis
+* Revenue Distribution by Category
+* Price vs Revenue Trend Analysis
+* Interactive Visualizations and Filters
+
+## SQL Analysis
+Used SQL queries to perform:
+* Revenue aggregation using SUM()
+* Category and city analysis using GROUP BY
+* Average sales calculations using AVG()
+* Ranking and sorting using ORDER BY
+* Data filtering for business insights
+
+## Dataset Information
+The dataset contains the following fields:
+* Order ID
+* Date
+* City
+* Category
+* Product
+* Quantity
+* Price
+* Revenue
+
+## Key Insights
+* Generated approximately ₹1.97M in total revenue.
+* Processed 332 customer orders with 813 total units sold.
+* Bread emerged as the highest revenue-generating product.
+* Chennai, Kolkata, and Mumbai were among the top-performing cities.
+* Clothing, Electronics, and Groceries contributed significantly to overall revenue.
+* Higher-priced products generally generated greater revenue contributions.
+
+## Dashboard Preview
+![ClipHub Dashboard]inside(DASHBOARD OVERVIEW FILE)
+
+## Repository Contents
+* ClipHub_Sales_Dashboard.pbix
+* ClipHub_Sales_Data.xlsx
+* SQL_Queries.sql
+* dashboard-screenshot.png
+* README.md
+
+## Author
+Anishka Sharma
+B.Tech Computer Science Engineering (2027)
+Aspiring Data Analyst | Power BI | SQL | Python
+
+
+
